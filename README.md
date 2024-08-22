@@ -1,9 +1,15 @@
 Name: Bhumika Pawar
+<br>
 Company: CODETECH IT SOLUTIONS
+<br>
 ID: CT08DS5798
+<br>
 Domaitn: SOFTWARE DEVELOPMENT
+<br>
 Duration: July to Aug 2024
+<br>
 Mantor: Neela Santosh Kumar
+<br>
 
 
 # Health and Fitness Tracker
